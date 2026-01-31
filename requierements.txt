@@ -1,0 +1,3 @@
+pydualsense
+vgamepad
+psutil
