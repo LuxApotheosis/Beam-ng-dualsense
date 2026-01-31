@@ -15,6 +15,7 @@ A Python-based utility using **pydualsense** and **HidHide** to implement PlaySt
 
 1. **Clone the project**:
    ```bash
-   git clone
+   git clone https://github.com/LuxApotheosis/Beam-ng-dualsense.git
+   cd Beam-ng-dualsense
    python -m pip install -r requirements.txt
    python main.py
